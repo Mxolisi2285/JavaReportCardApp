@@ -57,7 +57,7 @@ JavaReportCardApp/
 
 ---
 
-##📢 Why I Built This
+📢 Why I Built This
 I created this project to sharpen my Java fundamentals and apply key concepts like OOP and file handling in a practical way. It’s amazing how much can be done with core Java alone!
 
 
