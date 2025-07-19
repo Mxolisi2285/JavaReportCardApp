@@ -26,3 +26,21 @@ A simple **Java console application** that allows users to manage student record
 
 ## 🖥️ Sample Output
 
+===== Student Report Card Menu =====
+
+Add Student
+
+View All Students
+
+Delete Student
+
+Save to File
+
+Exit
+Enter choice: 1
+Enter Student ID: S001
+Enter Student Name: Mxolisi
+Enter mark for subject 1: 85
+...
+Student added successfully!
+
